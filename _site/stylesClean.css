@@ -80,6 +80,5 @@ div.indent {
 	padding-left:30px;
 }
 div.social {
-    margin-left: auto;
-    margin-right: auto;
+    text-align: right;
 }
